@@ -37,6 +37,11 @@ public class WaveformView extends View {
         invalidate(); // Request redraw
     }
 
+    public void clear() {
+        dataPoints.clear();
+        invalidate();
+    }
+
     public void setMaxValue(float max) {
         this.maxValue = max;
     }

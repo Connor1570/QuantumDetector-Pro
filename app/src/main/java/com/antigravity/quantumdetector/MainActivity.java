@@ -9,6 +9,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.content.ContextCompat;
 import com.google.android.material.slider.Slider;
 import java.util.Locale;
 
@@ -50,15 +51,15 @@ public class MainActivity extends AppCompatActivity implements SensorManagerHelp
         // Setup Controls
         sensitivitySlider.addOnChangeListener((slider, value, fromUser) -> {
             anomalyThreshold = value;
-            // Update graph scale visually if needed, or just logic
         });
 
         calibrateButton.setOnClickListener(v -> {
             attractorAnalyzer = new AttractorAnalyzer(); // Reset history
-            waveformView = findViewById(R.id.waveformView); // Re-binding not needed, just visual reset?
-            // Actually, just resetting the analyzer is enough.
-            // Maybe clear graph too?
-            // waveformView.clear(); // If we implemented clear
+            waveformView.clear(); // Clear graph
+            anomalyValueText.setText("0.00");
+            alertText.setVisibility(View.INVISIBLE);
+            anomalyValueText.setTextColor(ContextCompat.getColor(this, R.color.quantum_green));
+            waveformView.setColor(ContextCompat.getColor(this, R.color.quantum_green));
         });
     }
 
@@ -92,13 +93,13 @@ public class MainActivity extends AppCompatActivity implements SensorManagerHelp
         // 4. Check Anomalies
         if (deviation > anomalyThreshold) {
             alertText.setVisibility(View.VISIBLE);
-            anomalyValueText.setTextColor(getColor(R.color.quantum_red));
-            waveformView.setColor(getColor(R.color.quantum_red));
+            anomalyValueText.setTextColor(ContextCompat.getColor(this, R.color.quantum_red));
+            waveformView.setColor(ContextCompat.getColor(this, R.color.quantum_red));
             triggerHapticFeedback();
         } else {
             alertText.setVisibility(View.INVISIBLE);
-            anomalyValueText.setTextColor(getColor(R.color.quantum_green));
-            waveformView.setColor(getColor(R.color.quantum_green));
+            anomalyValueText.setTextColor(ContextCompat.getColor(this, R.color.quantum_green));
+            waveformView.setColor(ContextCompat.getColor(this, R.color.quantum_green));
         }
     }
 

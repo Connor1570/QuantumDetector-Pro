@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color background_dark
+color black
+color purple_200
+color purple_500
+color purple_700
+color quantum_green
+color quantum_red
+color teal_200
+color teal_700
+color white
+id alertText
+id anomalyLabel
+id anomalyValue
+id calibrateButton
+id entropyLabel
+id entropyValue
+id sensitivityLabel
+id sensitivitySlider
+id statusText
+id titleText
+id waveformView
+layout activity_main
+string alert_anomaly
+string anomaly_label
+string app_name
+string entropy_label
+string status_label
+string status_scanning
+style Theme.QuantumDetector
+xml backup_rules
+xml data_extraction_rules

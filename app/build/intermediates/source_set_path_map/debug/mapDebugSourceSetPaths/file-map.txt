@@ -1,0 +1,35 @@
+com.antigravity.quantumdetector.app-transition-1.2.0-0 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\0bab0aff823cda289c18027c5758324f\transformed\transition-1.2.0\res
+com.antigravity.quantumdetector.app-savedstate-1.2.1-1 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\0cd6b0af4354b91f260402b618ad6f59\transformed\savedstate-1.2.1\res
+com.antigravity.quantumdetector.app-core-1.9.0-2 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\147b9fc2227ed1889920dab792faa2c4\transformed\core-1.9.0\res
+com.antigravity.quantumdetector.app-appcompat-1.6.1-3 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\16ba1f04364312f3db641fb576a33837\transformed\appcompat-1.6.1\res
+com.antigravity.quantumdetector.app-lifecycle-viewmodel-2.6.1-4 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\1b1133b51c27a4927fc3a40f58351925\transformed\lifecycle-viewmodel-2.6.1\res
+com.antigravity.quantumdetector.app-material-1.11.0-5 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\2497afd0b95869191907fa38569b792d\transformed\material-1.11.0\res
+com.antigravity.quantumdetector.app-activity-1.8.0-6 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\24c31490c25c2b71afdef878d884d5a5\transformed\activity-1.8.0\res
+com.antigravity.quantumdetector.app-drawerlayout-1.1.1-7 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\26cbd13c0c2e30f0445b76a73e75950d\transformed\drawerlayout-1.1.1\res
+com.antigravity.quantumdetector.app-viewpager2-1.0.0-8 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\3b5678cd5cd05bbff4ccdf676ca458af\transformed\viewpager2-1.0.0\res
+com.antigravity.quantumdetector.app-lifecycle-runtime-2.6.1-9 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\484d6e931282d6373d8acc13f4e3c0e1\transformed\lifecycle-runtime-2.6.1\res
+com.antigravity.quantumdetector.app-profileinstaller-1.3.0-10 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\4e68efdf8f5061a0920fd69b33f8f6db\transformed\profileinstaller-1.3.0\res
+com.antigravity.quantumdetector.app-lifecycle-livedata-2.6.1-11 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\5087227e9b39ebfdda19466b3b253c45\transformed\lifecycle-livedata-2.6.1\res
+com.antigravity.quantumdetector.app-constraintlayout-2.1.4-12 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\530ee8a654b9e451f89d2627352a140d\transformed\constraintlayout-2.1.4\res
+com.antigravity.quantumdetector.app-coordinatorlayout-1.1.0-13 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\5535f609a2458c6dc03e88f7fc263789\transformed\coordinatorlayout-1.1.0\res
+com.antigravity.quantumdetector.app-lifecycle-livedata-core-2.6.1-14 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\6b64e2226a89cfa96034f6c71b37eb4a\transformed\lifecycle-livedata-core-2.6.1\res
+com.antigravity.quantumdetector.app-core-runtime-2.2.0-15 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\6f6fe1525344319b4166047f28ccb2c2\transformed\core-runtime-2.2.0\res
+com.antigravity.quantumdetector.app-fragment-1.3.6-16 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\72e66cce4775fb58495d2c26a461e057\transformed\fragment-1.3.6\res
+com.antigravity.quantumdetector.app-emoji2-1.2.0-17 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\8b746e349f0ef019c33cc0e145a6d04f\transformed\emoji2-1.2.0\res
+com.antigravity.quantumdetector.app-lifecycle-process-2.6.1-18 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\92ef67220713a9754c97ae736d127c0b\transformed\lifecycle-process-2.6.1\res
+com.antigravity.quantumdetector.app-recyclerview-1.1.0-19 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\aaaf7c9731af65d55c6f22641ee2d0fe\transformed\recyclerview-1.1.0\res
+com.antigravity.quantumdetector.app-core-ktx-1.9.0-20 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\c2009d205779ad7b359460be13dded76\transformed\core-ktx-1.9.0\res
+com.antigravity.quantumdetector.app-annotation-experimental-1.3.0-21 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\cda341752359bc33b8d350d66e24d1d3\transformed\annotation-experimental-1.3.0\res
+com.antigravity.quantumdetector.app-lifecycle-viewmodel-savedstate-2.6.1-22 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\d24a1d86d9b5a19b4b24ca196ad0a563\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.antigravity.quantumdetector.app-emoji2-views-helper-1.2.0-23 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\dd7e0bbc8eee7d7476c91266207794f3\transformed\emoji2-views-helper-1.2.0\res
+com.antigravity.quantumdetector.app-cardview-1.0.0-24 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\edd48f1250a7800ad809d83dd4ea771e\transformed\cardview-1.0.0\res
+com.antigravity.quantumdetector.app-appcompat-resources-1.6.1-25 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\f8fafa1649845a0120321071276afcb4\transformed\appcompat-resources-1.6.1\res
+com.antigravity.quantumdetector.app-startup-runtime-1.1.1-26 C:\Users\zepha\.gradle\caches\9.0-milestone-1\transforms\fed958775fc7c77c59021138ba30ebad\transformed\startup-runtime-1.1.1\res
+com.antigravity.quantumdetector.app-pngs-27 C:\Users\zepha\OneDrive\Desktop\Agentic work\QuantumDetector\app\build\generated\res\pngs\debug
+com.antigravity.quantumdetector.app-resValues-28 C:\Users\zepha\OneDrive\Desktop\Agentic work\QuantumDetector\app\build\generated\res\resValues\debug
+com.antigravity.quantumdetector.app-updated_navigation_xml-29 C:\Users\zepha\OneDrive\Desktop\Agentic work\QuantumDetector\app\build\generated\updated_navigation_xml\debug
+com.antigravity.quantumdetector.app-packageDebugResources-30 C:\Users\zepha\OneDrive\Desktop\Agentic work\QuantumDetector\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.antigravity.quantumdetector.app-packageDebugResources-31 C:\Users\zepha\OneDrive\Desktop\Agentic work\QuantumDetector\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.antigravity.quantumdetector.app-debug-32 C:\Users\zepha\OneDrive\Desktop\Agentic work\QuantumDetector\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.antigravity.quantumdetector.app-debug-33 C:\Users\zepha\OneDrive\Desktop\Agentic work\QuantumDetector\app\src\debug\res
+com.antigravity.quantumdetector.app-main-34 C:\Users\zepha\OneDrive\Desktop\Agentic work\QuantumDetector\app\src\main\res
