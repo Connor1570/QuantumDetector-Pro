@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quantum Anomaly Detector</string>
+    <string name="status_label">Status: </string>
+    <string name="status_scanning">Scanning Quantum Field...</string>
+    <string name="entropy_label">Entropy: </string>
+    <string name="anomaly_label">Anomaly Score: </string>
+    <string name="alert_anomaly">ANOMALY DETECTED</string>
+</resources>
