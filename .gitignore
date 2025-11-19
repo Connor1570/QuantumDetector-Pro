@@ -13,3 +13,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Python / PyInstaller
+__pycache__/
+*.py[cod]
+windows_version/build/
+*.spec
